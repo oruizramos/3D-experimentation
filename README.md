@@ -1,3 +1,7 @@
+# Check it live!
+
+https://3d-physics-experiment.netlify.app/
+
 # Physics Experimentation
 
 - Interactive 3D Physics Simulation with Three.js and Rapier
